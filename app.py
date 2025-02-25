@@ -1,0 +1,1 @@
+PATTERN = "api.deepseek.com"
